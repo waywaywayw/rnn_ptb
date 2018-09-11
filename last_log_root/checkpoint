@@ -1,0 +1,5 @@
+model_checkpoint_path: "-24300"
+all_model_checkpoint_paths: "..\\log_root\\model.ckpt-0"
+all_model_checkpoint_paths: "..\\log_root\\model.ckpt-8987"
+all_model_checkpoint_paths: "..\\log_root\\model.ckpt-17789"
+all_model_checkpoint_paths: "-24300"

@@ -1,0 +1,504 @@
+[epoch 0] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 0] output:      记忆       记忆       记忆       记忆       指控       记忆       记忆       记忆       记忆       记忆
+[epoch 0] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 0] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球       月球       月球
+[epoch 0] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 0] output:      月球       记忆       月球       月球       月球       记忆       记忆       记忆       记忆       记忆
+[epoch 0] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 0] output:      指控       月球       记忆       月球       指控       记忆       月球       记忆       记忆       记忆
+[epoch 0] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 0] output:      记忆       记忆       月球       记忆       月球       月球       记忆       记忆       记忆       记忆
+[epoch 0] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 0] output:      记忆       记忆       月球       记忆       指控       记忆       记忆       记忆       记忆       月球
+[epoch 0] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 0] output:      月球       月球       记忆       月球       月球       月球       指控       月球       记忆       记忆
+[epoch 0] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 0] output:      记忆       月球       月球       月球       记忆       记忆       记忆       记忆       记忆       记忆
+[epoch 0] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 0] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球       记忆
+[epoch 0] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 0] output:      记忆       记忆       月球       记忆       指控       记忆       记忆       记忆       记忆       记忆
+[epoch 0] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 0] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆
+[epoch 0] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 0] output:      月球       记忆       记忆       记忆       记忆       月球       指控       月球       月球       记忆
+[epoch 0] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 0] output:      指控       指控       记忆       指控       记忆       记忆       月球       记忆       月球       记忆
+[epoch 0] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 0] output:      记忆       记忆       记忆       记忆       记忆       指控       月球       指控       指控       指控
+[epoch 0] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 0] output:      指控       指控       指控       记忆       记忆       记忆       记忆       记忆       记忆       月球
+[epoch 0] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 0] output:      记忆       记忆       记忆       记忆       记忆       记忆       月球       记忆       记忆       月球
+[epoch 0] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 0] output:      月球       月球       记忆       记忆       指控       记忆       指控       指控       月球       记忆
+[epoch 0] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 0] output:      记忆       记忆       记忆       记忆       记忆       指控       月球       指控       记忆       记忆
+[epoch 0] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 0] output:      记忆       月球       月球       记忆       月球       月球       月球       月球       指控       指控
+[epoch 0] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 0] output:      月球       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球
+[epoch 0] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 0] output:      月球       记忆       月球       记忆       记忆       月球       记忆       记忆       记忆       记忆
+[epoch 1] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 1] output:      记忆       记忆       记忆       记忆       指控       记忆       记忆       记忆       记忆       记忆
+[epoch 1] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 1] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球       月球       月球
+[epoch 1] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 1] output:      月球       记忆       月球       月球       月球       记忆       记忆       记忆       记忆       记忆
+[epoch 1] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 1] output:      指控       月球       记忆       月球       指控       记忆       月球       记忆       记忆       记忆
+[epoch 1] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 1] output:      记忆       记忆       月球       记忆       月球       月球       记忆       记忆       记忆       记忆
+[epoch 1] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 1] output:      记忆       记忆       月球       记忆       指控       记忆       记忆       记忆       记忆       月球
+[epoch 1] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 1] output:      月球       月球       记忆       月球       月球       月球       指控       月球       记忆       记忆
+[epoch 1] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 1] output:      记忆       月球       月球       月球       记忆       记忆       记忆       记忆       记忆       记忆
+[epoch 1] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 1] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球       记忆
+[epoch 1] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 1] output:      记忆       记忆       月球       记忆       指控       记忆       记忆       记忆       记忆       记忆
+[epoch 1] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 1] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆
+[epoch 1] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 1] output:      月球       记忆       记忆       记忆       记忆       月球       指控       月球       月球       记忆
+[epoch 1] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 1] output:      指控       指控       记忆       指控       记忆       记忆       月球       记忆       月球       记忆
+[epoch 1] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 1] output:      记忆       记忆       记忆       记忆       记忆       指控       月球       指控       指控       指控
+[epoch 1] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 1] output:      指控       指控       指控       记忆       记忆       记忆       记忆       记忆       记忆       月球
+[epoch 1] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 1] output:      记忆       记忆       记忆       记忆       记忆       记忆       月球       记忆       记忆       月球
+[epoch 1] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 1] output:      月球       月球       记忆       记忆       指控       记忆       指控       指控       月球       记忆
+[epoch 1] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 1] output:      记忆       记忆       记忆       记忆       记忆       指控       月球       指控       记忆       记忆
+[epoch 1] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 1] output:      记忆       月球       月球       记忆       月球       月球       月球       月球       指控       指控
+[epoch 1] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 1] output:      月球       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球
+[epoch 1] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 1] output:      月球       记忆       月球       记忆       记忆       月球       记忆       记忆       记忆       记忆
+[epoch 2] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 2] output:      记忆       记忆       记忆       记忆       指控       记忆       记忆       记忆       记忆       记忆
+[epoch 2] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 2] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球       月球       月球
+[epoch 2] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 2] output:      月球       记忆       月球       月球       月球       记忆       记忆       记忆       记忆       记忆
+[epoch 2] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 2] output:      指控       月球       记忆       月球       指控       记忆       月球       记忆       记忆       记忆
+[epoch 2] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 2] output:      记忆       记忆       月球       记忆       月球       月球       记忆       记忆       记忆       记忆
+[epoch 2] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 2] output:      记忆       记忆       月球       记忆       指控       记忆       记忆       记忆       记忆       月球
+[epoch 2] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 2] output:      月球       月球       记忆       月球       月球       月球       指控       月球       记忆       记忆
+[epoch 2] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 2] output:      记忆       月球       月球       月球       记忆       记忆       记忆       记忆       记忆       记忆
+[epoch 2] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 2] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球       记忆
+[epoch 2] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 2] output:      记忆       记忆       月球       记忆       指控       记忆       记忆       记忆       记忆       记忆
+[epoch 2] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 2] output:      记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆
+[epoch 2] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 2] output:      月球       记忆       记忆       记忆       记忆       月球       指控       月球       月球       记忆
+[epoch 2] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 2] output:      指控       指控       记忆       指控       记忆       记忆       月球       记忆       月球       记忆
+[epoch 2] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 2] output:      记忆       记忆       记忆       记忆       记忆       指控       月球       指控       指控       指控
+[epoch 2] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 2] output:      指控       指控       指控       记忆       记忆       记忆       记忆       记忆       记忆       月球
+[epoch 2] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 2] output:      记忆       记忆       记忆       记忆       记忆       记忆       月球       记忆       记忆       月球
+[epoch 2] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 2] output:      月球       月球       记忆       记忆       指控       记忆       指控       指控       月球       记忆
+[epoch 2] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 2] output:      记忆       记忆       记忆       记忆       记忆       指控       月球       指控       记忆       记忆
+[epoch 2] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 2] output:      记忆       月球       月球       记忆       月球       月球       月球       月球       指控       指控
+[epoch 2] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 2] output:      月球       记忆       记忆       记忆       记忆       记忆       记忆       记忆       记忆       月球
+[epoch 2] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 2] output:      月球       记忆       月球       记忆       记忆       月球       记忆       记忆       记忆       记忆
+[epoch 0] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 0] output:     <UNK>      <UNK>      <UNK>      <UNK>         的          ,      <UNK>          ,      <UNK>      <UNK>
+[epoch 0] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 0] output:     <UNK>      <UNK>      <UNK>          ,      <UNK>          ,      <UNK>      <UNK>      <UNK>          ,
+[epoch 0] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 0] output:         ,      <UNK>      <UNK>          ,          ,      <UNK>      <UNK>      <UNK>      <UNK>         的
+[epoch 0] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 0] output:     <UNK>         的      <UNK> TAG_NUMBER          ,      <UNK>      <UNK>      <UNK>          ,      <UNK>
+[epoch 0] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 0] output:         ,         的      <UNK>      <UNK>          ,          ,          ,          ,      <UNK>      <UNK>
+[epoch 0] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 0] output:     <UNK>      <UNK>          ,      <UNK>          ,      <UNK>          ,          ,         的      <UNK>
+[epoch 0] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 0] output:     <UNK>      <UNK>          ,          ,      <UNK>         年      <UNK>      <UNK>          ,      <UNK>
+[epoch 0] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 0] output:        的      <UNK>      <UNK>         的      <UNK>         的          ,      <UNK>          ,      <UNK>
+[epoch 0] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 0] output:     <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>         的      <UNK>      <UNK>          ,
+[epoch 0] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 0] output:         ,      <UNK>      <UNK>      <UNK>      <UNK>         的          ,      <UNK>          ,      <UNK>
+[epoch 0] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 0] output:     <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>         的          ,      <UNK>
+[epoch 0] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 0] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>          ,      <UNK>          ,
+[epoch 0] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 0] output:     <UNK>          , TAG_NUMBER      <eos> TAG_NUMBER      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 0] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 0] output:     <UNK>      <UNK>      <UNK>      <UNK>         的      <UNK>      <UNK>         月      <UNK>      <eos>
+[epoch 0] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 0] output:TAG_NUMBER          ,      <UNK>      <UNK>          ,      <UNK>      <UNK>         的      <UNK>      <UNK>
+[epoch 0] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 0] output:     <UNK>          ,      <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 0] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 0] output:     <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>         的      <UNK>      <UNK>
+[epoch 0] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 0] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>         月      <UNK>      <UNK>      <UNK>          ,
+[epoch 0] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 0] output:         ,         的          ,      <UNK>      <UNK>         的      <UNK>          ,          ,      <UNK>
+[epoch 0] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 0] output:     <UNK>      <UNK>      <UNK>      <UNK>         的      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 0] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 0] output:     <UNK>          ,          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>
+[epoch 1] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 1] output:     <UNK>      <UNK>      <UNK>      <UNK>          ,          ,      <UNK>          ,      <UNK>      <UNK>
+[epoch 1] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 1] output:     <UNK>      <UNK>      <UNK>          ,      <UNK>          ,      <UNK>      <UNK>      <UNK>          ,
+[epoch 1] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 1] output:         ,      <UNK>      <UNK>          ,          ,      <UNK>      <UNK>      <UNK>      <UNK>          ,
+[epoch 1] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 1] output:     <UNK>          ,      <UNK> TAG_NUMBER          ,      <UNK>      <UNK>      <UNK>          ,      <UNK>
+[epoch 1] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 1] output:         ,         的      <UNK>      <UNK>          ,          ,          ,          ,      <UNK>      <UNK>
+[epoch 1] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 1] output:     <UNK>      <UNK>          ,      <UNK>          ,      <UNK>          ,          ,          , TAG_NUMBER
+[epoch 1] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 1] output:     <UNK>      <UNK>          ,          ,      <UNK>         年      <UNK>      <UNK>          ,      <UNK>
+[epoch 1] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 1] output:        的      <UNK>      <UNK>          ,      <UNK>         的          ,      <UNK>          ,      <UNK>
+[epoch 1] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 1] output:     <UNK>      <UNK>          ,          ,      <UNK>      <UNK>          ,      <UNK>      <UNK>          ,
+[epoch 1] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 1] output:         ,      <UNK>      <UNK>      <UNK>      <UNK>          ,          ,      <UNK>          ,      <UNK>
+[epoch 1] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 1] output:     <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>          ,          ,      <UNK>
+[epoch 1] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 1] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>          ,      <UNK>          ,
+[epoch 1] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 1] output:     <UNK>          , TAG_NUMBER         日 TAG_NUMBER      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 1] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 1] output:     <UNK>          ,      <UNK>      <UNK>          ,          , TAG_NUMBER         年      <UNK>         日
+[epoch 1] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 1] output:TAG_NUMBER          ,      <UNK>      <UNK>          ,      <UNK>      <UNK>          ,      <UNK>      <UNK>
+[epoch 1] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 1] output:     <UNK>          ,      <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 1] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 1] output:     <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>
+[epoch 1] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 1] output:     <UNK>      <UNK>      <UNK>      <UNK> TAG_NUMBER         日      <UNK> TAG_NUMBER      <UNK>          ,
+[epoch 1] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 1] output:         ,          ,          ,      <UNK>      <UNK>          ,      <UNK>          ,          ,      <UNK>
+[epoch 1] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 1] output:     <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 1] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 1] output:     <UNK>          ,          ,      <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>          ,      <UNK>      <UNK>
+[epoch 2] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,
+[epoch 2] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 2] output:         ,      <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 2] output:     <UNK>      <UNK>      <UNK> TAG_NUMBER          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 2] output:        的      <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 2] output:     <UNK>      <UNK>          ,      <UNK>          ,      <UNK>          ,          ,          , TAG_NUMBER
+[epoch 2] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>         年      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>
+[epoch 2] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,
+[epoch 2] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 2] output:        的      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>          ,      <UNK>
+[epoch 2] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>          ,      <UNK>      <eos>      <UNK>      <eos>
+[epoch 2] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 2] output:     <UNK>      <UNK> TAG_NUMBER         日 TAG_NUMBER      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK> TAG_NUMBER         年      <UNK>         日
+[epoch 2] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 2] output:     <UNK>      <eos>      <UNK>      <UNK>          ,      <UNK>      <UNK>         的      <UNK>      <UNK>
+[epoch 2] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 2] output:     <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>         的      <UNK>      <UNK>
+[epoch 2] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>         月      <UNK>      <UNK>      <UNK>          ,
+[epoch 2] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 2] output:         ,      <UNK>          ,      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 2] output:     <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 2] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 2] output:     <UNK>      <UNK>      <eos>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 0] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 0] output:        人         都         有      <UNK>         的         的      <UNK>          ,      <UNK>         人
+[epoch 0] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 0] output:        都         有      <UNK>      <eos>      <UNK>          ,         但      <UNK>      <UNK>          :
+[epoch 0] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 0] output:         ,      <UNK>         的          ,          ,      <UNK>         就         会       什么      <eos>
+[epoch 0] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 0] output:     <UNK>         的      <UNK>      <eos>          ,      <UNK>       时候         的         的      <UNK>
+[epoch 0] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 0] output:         ,         很      <UNK>      <UNK>          ,          ,          ,          ,      <UNK>         要
+[epoch 0] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 0] output:     <UNK>      <UNK>          ,      <UNK>          ,      <UNK>          ,          …      <UNK>       报道
+[epoch 0] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 0] output:         ]          :          ,          ,      <UNK>         年 TAG_NUMBER      <UNK>      <UNK>      <UNK>
+[epoch 0] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 0] output:      来说       自己      <UNK>         的      <UNK>      <UNK>          ,      <UNK>          ,         你
+[epoch 0] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 0] output:        让       一个         的          ,      <UNK>      <UNK>         的       没有      <UNK>          ,
+[epoch 0] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 0] output:         ,      <UNK>      <UNK>      <UNK>       自己          ,          ,       时候          ,      <UNK>
+[epoch 0] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 0] output:        你      <UNK>      <UNK>      <eos>      <eos>      <UNK>         你          ,         的      <UNK>
+[epoch 0] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 0] output:        也         很         了         但      <UNK>         就       自己      <UNK>      <UNK>         的
+[epoch 0] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 0] output:        都         都      <UNK>         次      <UNK>      <UNK>         的      <UNK>         也         是
+[epoch 0] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 0] output:     <UNK>         的      <eos>      <UNK>          ,         的      <UNK>         月 TAG_NUMBER          ,
+[epoch 0] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 0] output:     <UNK>         的         有      <UNK>         的          ,      <UNK>          ,         的         的
+[epoch 0] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 0] output:     <UNK>          ,      <UNK>      <UNK>          ,      <UNK>         是      <UNK>      <UNK>      <UNK>
+[epoch 0] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 0] output:     <UNK>         的         的      <UNK>         的      <UNK>      <UNK>          ,      <UNK>         的
+[epoch 0] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 0] output:        不      <UNK>      <UNK>         上      <UNK>         月         的      <UNK>         的         的
+[epoch 0] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 0] output:         ,         有         了      <UNK>      <UNK>          ,         的         的         的         会
+[epoch 0] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 0] output:        了      <UNK>      <UNK>      <UNK>         的      <UNK>      <UNK> TAG_NUMBER      <UNK>      <UNK>
+[epoch 0] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 0] output:     <UNK>         的         的         的      <UNK>      <UNK>      <UNK>      <UNK>         的      <UNK>
+[epoch 1] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 1] output:        人         的         有      <UNK>         的         的      <UNK>      <eos>      <UNK>         人
+[epoch 1] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 1] output:        都         有      <UNK>      <UNK>      <UNK>      <eos>         但       自己          ,          ,
+[epoch 1] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 1] output:         ,         你         地      <eos>         的      <UNK>         就         会       一个      <eos>
+[epoch 1] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 1] output:      自己         的      <UNK>          —      <eos>      <UNK>       时候         的         的      <UNK>
+[epoch 1] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 1] output:         ,         很      <UNK>      <UNK>          ,         的          ,          ,      <UNK>         是
+[epoch 1] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 1] output:     <UNK>       一个      <eos>      <eos>      <eos>      <UNK>      <eos>          …      <eos>       点击
+[epoch 1] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 1] output:         ]      <eos>          :      <UNK>      <UNK>         年      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 1] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 1] output:         :       自己         是          ,          ,          ,          ,         去          ,         但
+[epoch 1] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 1] output:        想       一个          ,      <eos>      <UNK>      <UNK>         的         说          ,          ,
+[epoch 1] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 1] output:         ,      <UNK>      <UNK>      <UNK>         你          ,          ,       时候          ,      <UNK>
+[epoch 1] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 1] output:        人         的      <UNK>      <UNK>      <eos>      <UNK>         你          ,          ,         但
+[epoch 1] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 1] output:        也      <UNK>         了         但      <UNK>         也       自己         的      <UNK>         的
+[epoch 1] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 1] output:        都      <eos>      <eos>         个      <UNK>      <UNK>         的      <UNK>         也         会
+[epoch 1] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 1] output:TAG_NUMBER         了      <eos>         在          ,         的 TAG_NUMBER         年 TAG_NUMBER       美元
+[epoch 1] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 1] output:TAG_NUMBER         的         有 TAG_NUMBER         的      <eos>       因此          ,         的         的
+[epoch 1] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 1] output:        不         了         在         的          ,         这         是       可能       问题         的
+[epoch 1] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 1] output:      市场       市场         的      <eos>      <UNK>         但         在          ,       因素         也
+[epoch 1] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 1] output:        不      <UNK>       市场       市场       越南         月         的       中国         的         的
+[epoch 1] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 1] output:         ,         有         的         但       中国          ,         的         的         的       可以
+[epoch 1] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 1] output:        了 TAG_NUMBER      <UNK>       现在         的       中国         在         了       国家         的
+[epoch 1] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 1] output:      中国         的         的         的      <UNK>       市场      <UNK>         的         的      <UNK>
+[epoch 2] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 2] output:        人         都         有       可能         的         的      <UNK>          ,         但         人
+[epoch 2] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 2] output:        都         是       一个       成为      <UNK>      <eos>         但         你          ,          ,
+[epoch 2] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 2] output:         ,         你         的          ,         的         就         就         会       可能         会
+[epoch 2] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 2] output:      自己         的       事情      <eos>         的         在       时候         的         的       男人
+[epoch 2] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 2] output:         ,         是         说         了          ,          ,      <eos>          ,         你         是
+[epoch 2] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 2] output:      自己       一个      <eos>      <eos>      <eos>      <UNK>         的          …         你       全文
+[epoch 2] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 2] output:         ]          [          :          :         你         年          ,      <eos>      <eos>       来源
+[epoch 2] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 2] output:        说       自己         是          ,       知道         是          ,         去          ,         你
+[epoch 2] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 2] output:        看       什么          ,          ,         在         在         的         说         再          ,
+[epoch 2] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 2] output:         ,         但         在      <UNK>         你          ,         的       时候          ,         我
+[epoch 2] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 2] output:        人         的      <UNK>         的      <eos>         在         你         的          ,         我
+[epoch 2] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 2] output:        也         再         了         但         会         也       自己         的      <UNK>         的
+[epoch 2] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 2] output:        都         都      <eos>          , TAG_NUMBER         是         的       时候         也         会
+[epoch 2] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 2] output:        很         了      <eos>         在          ,         的 TAG_NUMBER         年 TAG_NUMBER         元
+[epoch 2] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 2] output:TAG_NUMBER         的         有         很         的          ,       所以          ,         的         也
+[epoch 2] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 2] output:        不         了         在         的          ,       现在         是       很多       问题         的
+[epoch 2] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 2] output:      市场         的         的      <eos>         的         但         这         是       因素         的
+[epoch 2] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 2] output:        不      <UNK>       股市       市场       越南         月         的       中国         的         的
+[epoch 2] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 2] output:        的         有         的         但         在          ,         的         的         的         会
+[epoch 2] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 2] output:        了 TAG_NUMBER         在       现在         的       我们         在         了         的         的
+[epoch 2] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 2] output:      越南         的         的         的       石油          ,         在         的         的      <UNK>
+[epoch 3] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 3] output:        人         的         有      <UNK>         的         的      <UNK>          ,      <UNK>         人
+[epoch 3] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 3] output:        都         是      <UNK>      <UNK>      <UNK>      <eos>      <UNK>      <UNK>      <UNK>          ,
+[epoch 3] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 3] output:         ,      <UNK>         的          ,         的      <UNK>         就         会      <UNK>      <eos>
+[epoch 3] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 3] output:     <UNK>         的      <UNK>      <eos>         的      <UNK>       时候      <UNK>         的      <UNK>
+[epoch 3] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 3] output:         ,         是      <UNK>          ,         的      <eos>      <eos>          ,      <UNK>         是
+[epoch 3] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 3] output:        在      <UNK>      <eos>      <eos>      <eos>      <UNK>         的          …      <UNK>      <UNK>
+[epoch 3] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 3] output:         ]      <eos>          :      <UNK>      <UNK>         年      <UNK>      <UNK>      <UNK>      <UNK>
+[epoch 3] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 3] output:     <UNK>       自己         是          ,       喜欢      <UNK>          ,      <UNK>          ,      <UNK>
+[epoch 3] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 3] output:     <UNK>       什么         的          ,      <UNK>      <UNK>         的         说      <UNK>          ,
+[epoch 3] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 3] output:         ,      <UNK>         在      <UNK>       自己          :         的       时候      <eos>      <UNK>
+[epoch 3] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 3] output:        人      <UNK>      <UNK>      <UNK>         的      <UNK>         你         的         的      <UNK>
+[epoch 3] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 3] output:        也       下跌         了      <UNK>      <UNK>         也       股市         的      <UNK>         的
+[epoch 3] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 3] output:        都         都 TAG_NUMBER         个      <UNK>      <UNK>         的      <UNK>         也         会
+[epoch 3] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 3] output:     <UNK>         了      <eos>      <UNK>          ,         的 TAG_NUMBER         年 TAG_NUMBER       美元
+[epoch 3] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 3] output:TAG_NUMBER      <UNK>         有      <UNK>         的      <eos>       因为          ,         的       上涨
+[epoch 3] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 3] output:        在         了      <UNK>       认为          ,      <UNK>         是      <UNK>      <UNK>         的
+[epoch 3] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 3] output:     <UNK>       市场         的      <UNK>          ,      <UNK>      <UNK>          ,       因素         的
+[epoch 3] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 3] output:        不      <UNK> TAG_NUMBER       市场       越南         年         的       中国         的         的
+[epoch 3] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 3] output:         ,         有         的      <UNK>      <UNK>          ,       市场         的         的         在
+[epoch 3] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 3] output:        了 TAG_NUMBER      <UNK>       现在          ,      <UNK>         在       可能      <UNK>         的
+[epoch 3] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 3] output:      越南         的         的         的       一个       市场      <UNK>      <UNK>         的      <UNK>
+[epoch 4] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 4] output:        人         都         能      <UNK>         的         的      <UNK>          ,      <UNK>         人
+[epoch 4] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 4] output:        都         是      <UNK>      <UNK>      <UNK>      <eos>      <UNK>      <UNK>      <UNK>          ,
+[epoch 4] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 4] output:         ,      <UNK>         地          ,         的      <UNK>         会         会      <UNK>      <UNK>
+[epoch 4] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 4] output:     <UNK>         的      <UNK>      <eos>         的      <UNK>         都      <UNK>         的      <UNK>
+[epoch 4] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 4] output:         ,         是      <UNK>      <UNK>         的          ,          ,          ,      <UNK>         是
+[epoch 4] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 4] output:     <UNK>      <UNK>      <eos>      <eos>      <eos>      <UNK>         的          …      <UNK>      <UNK>
+[epoch 4] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 4] output:         ]      <UNK>      <UNK>      <UNK>      <UNK>         年      <UNK>      <UNK>      <eos>      <UNK>
+[epoch 4] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 4] output:     <UNK>       自己         是         的       喜欢      <UNK>          ,      <UNK>          ,      <UNK>
+[epoch 4] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 4] output:        看      <UNK>          ,          ,      <UNK>      <UNK>         的       没有      <UNK>          ,
+[epoch 4] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 4] output:     <UNK>      <UNK>      <UNK>      <UNK>         你          ,          ,       时候          ,      <UNK>
+[epoch 4] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 4] output:        我      <UNK>      <UNK>      <UNK>      <eos>      <UNK>         你      <UNK>          ,      <UNK>
+[epoch 4] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 4] output:        也      <UNK>         了         但      <UNK>         也          ,         的      <UNK>         的
+[epoch 4] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 4] output:        都         的      <eos>          ,      <UNK>         会         的      <UNK>         也         会
+[epoch 4] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 4] output:     <UNK>         了      <eos>      <UNK>          ,         的 TAG_NUMBER         年 TAG_NUMBER         年
+[epoch 4] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 4] output:        地         的         有         很         的      <eos>       所以          ,         的       上涨
+[epoch 4] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 4] output:        在         了         而       认为          ,       如果         是       一些      <UNK>         的
+[epoch 4] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 4] output:      市场       市场         的       很多       价格         但     实际上          ,         都         的
+[epoch 4] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 4] output:        不      <UNK>       市场       市场       越南         年     下半年       中国         的         的
+[epoch 4] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 4] output:         ,         有         的         但         在          ,         是         的         的         会
+[epoch 4] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 4] output:        了 TAG_NUMBER      <UNK>       现在         的       我们         像       可能      <UNK>         的
+[epoch 4] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 4] output:      越南         的         的         的     成品油          ,         在         的         的      <UNK>
+[epoch 5] input :      每个         人         都         有       自己       独特         的       一面          ,       每个
+[epoch 5] output:        人         都         能      <UNK>         的         的      <UNK>          ,      <UNK>         人
+[epoch 5] input :        人         都         有       可能       令人      <UNK>          ,       只要       大声         说
+[epoch 5] output:        都         有      <UNK>         在      <UNK>         的      <UNK>      <UNK>      <UNK>          ,
+[epoch 5] input :      出来          ,       大胆         秀       出来          ,         你         就         有       可能
+[epoch 5] output:         ,         就         地          ,         的      <UNK>         会         会      <UNK>      <UNK>
+[epoch 5] input :      成为       真正         的         达         人      <eos>       任何         有      <UNK>         的
+[epoch 5] output:     <UNK>         的      <UNK>      <eos>         的      <UNK>       一个      <UNK>         的      <UNK>
+[epoch 5] input :        人         都       可以         到       舞台         上      <UNK>      <UNK>          ,         都
+[epoch 5] output:         ,      <UNK>      <UNK>         了         的          ,          ,          ,      <UNK>         会
+[epoch 5] input :        将         有       机会       参与       表演         与       比赛          …          …          [
+[epoch 5] output:     <UNK>      <UNK>      <UNK>      <eos>      <eos>      <UNK>         的          …      <UNK>       全文
+[epoch 5] input :      详细          ]      <UNK>       选手          : TAG_NUMBER         号       选手      <UNK>      <eos>
+[epoch 5] output:         ]      <UNK>      <UNK>      <UNK>      <UNK>         年      <UNK>      <UNK>      <eos>      <UNK>
+[epoch 5] input :        她       觉得       一个       女孩         不       应该      <UNK>         要       结婚          ,
+[epoch 5] output:     <UNK>       自己         是          ,       愿意      <UNK>         的      <UNK>          ,      <UNK>
+[epoch 5] input :        要         有      <UNK>      <UNK>      <eos>         而         她         还       没有       结婚
+[epoch 5] output:        看      <UNK>          ,          ,      <UNK>      <UNK>         的         在      <UNK>          ,
+[epoch 5] input :      打算          ,       记者       经常         问         她       结婚         的       问题          ,
+[epoch 5] output:     <UNK>      <UNK>      <UNK>      <UNK>         你          ,          ,       时候          ,      <UNK>
+[epoch 5] input :        让         她       更加       不敢       结婚      <eos>       如果      <UNK>       升值          ,
+[epoch 5] output:        我      <UNK>      <UNK>      <UNK>      <eos>      <UNK>         你      <UNK>          ,      <UNK>
+[epoch 5] input :      房价       就要         涨          ,     为什么       美元         对       欧元         和       英镑
+[epoch 5] output:        也      <UNK>         到      <UNK>      <UNK>         也       市场         就      <UNK>         的
+[epoch 5] input :        等       贬值         近 TAG_NUMBER          ,     为什么       美国         的       房价         也
+[epoch 5] output:     <UNK>         的      <eos>          ,         而         会         的      <UNK>         也         会
+[epoch 5] input :        是         涨         的      <eos>     为什么       日元         从 TAG_NUMBER         到 TAG_NUMBER
+[epoch 5] output:     <UNK>         了      <eos>      <UNK>          ,         的 TAG_NUMBER         年 TAG_NUMBER       美元
+[epoch 5] input :        对       美元       一直         是       升值         的          ,   在此期间       日本       房价
+[epoch 5] output:     <UNK>         的      <UNK>         很         的      <eos>       所以          ,         的       上涨
+[epoch 5] input :        却       暴跌      <eos>      <UNK>         讲          ,       确实         有       一些       外资
+[epoch 5] output:      没有          ,         而       认为          ,       现在         是       一些      <UNK>         的
+[epoch 5] input :        在       国内      <UNK>         了       房产          ,         但       显然       这些       资金
+[epoch 5] output:      市场       市场         的      <UNK>          ,         但      <UNK>         是       因素         的
+[epoch 5] input :        并       不想         在       中国         在 TAG_NUMBER         年       成为       中国   发达国家
+[epoch 5] output:        不      <UNK>       市场       市场       股市         年     下半年      <UNK>       经济         的
+[epoch 5] input :      之后         才       离开          ,       因为     到时候       土地     使用权       期限         就
+[epoch 5] output:         ,      <UNK>         的      <UNK>      <UNK>      <UNK>         是         的         的         会
+[epoch 5] input :        到         了      <eos>         而       最近          ,         就         有       一些       外资
+[epoch 5] output:        了 TAG_NUMBER      <UNK>       现在         的      <UNK>         像         了      <UNK>         的
+[epoch 5] input :        在      <UNK>       抛售       中国         的       房产      <eos>      <UNK>       旗下         的
+[epoch 5] output:      越南         的         的         的       时候          ,         在      <UNK>         的      <UNK>
